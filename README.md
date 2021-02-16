@@ -1,5 +1,5 @@
 # Certificados-Data-Science-Academy
-Inteligência Artificial Fundamentos:
+Inteligência Artificial Fundamentos: /n
 1 - Introdução
 2 - O que é?
 3 - Solucionando Problemas
