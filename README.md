@@ -3,7 +3,6 @@
   Inteligência Artificial Fundamentos: <br />
  </head>
  <body>
-   <br />
    1 - Introdução <br />
    2 - O que é? <br />
    3 - Solucionando Problemas <br />
