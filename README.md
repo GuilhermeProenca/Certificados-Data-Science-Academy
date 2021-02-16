@@ -1,9 +1,15 @@
-# Certificados-Data-Science-Academy
-Inteligência Artificial Fundamentos: /n
-1 - Introdução
-2 - O que é?
-3 - Solucionando Problemas
-4 - Aplicação no Mundo Real
-5 - Machine Learning
-6 - Redes Neurais
-7 - Implicações na Sociedade
+<html>
+ <head>
+  <title> Inteligência Artificial Fundamentos: <br /> </title>
+ </head>
+ <body>
+   <br />
+   1 - Introdução <br />
+   2 - O que é? <br />
+   3 - Solucionando Problemas <br />
+   4 - Aplicação no Mundo Real <br />
+   5 - Machine Learning <br />
+   6 - Redes Neurais <br />
+   7 - Implicações na Sociedade <br />
+ </body>
+</html>
