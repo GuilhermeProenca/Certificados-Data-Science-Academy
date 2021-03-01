@@ -1,14 +1,14 @@
 <html>
  <head>
-  Inteligência Artificial Fundamentos: <br />
+  <p> <strong> Inteligência Artificial Fundamentos: </strong> </p> <br />
  </head>
  <body>
-   1 - Introdução <br />
-   2 - O que é? <br />
-   3 - Solucionando Problemas <br />
-   4 - Aplicação no Mundo Real <br />
-   5 - Machine Learning <br />
-   6 - Redes Neurais <br />
-   7 - Implicações na Sociedade <br />
+   <p> 1 - Introdução <br /> </p>
+   <p> 2 - O que é? <br /> </p>
+   <p>3 - Solucionando Problemas </p>
+   <p> 4 - Aplicação no Mundo Real </p>
+   <p> 5 - Machine Learning </p>
+   <p> 6 - Redes Neurais </p>
+   <p> 7 - Implicações na Sociedade </p>
  </body>
 </html>
