@@ -1,6 +1,6 @@
 <html>
  <head>
-  <p> <strong> Inteligência Artificial Fundamentos: </strong> </p> <br />
+  <p> <strong> Inteligência Artificial Fundamentos: </strong> </p>
  </head>
  <body>
    <p> 1 - Introdução <br /> </p>
