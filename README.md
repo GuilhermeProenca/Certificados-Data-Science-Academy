@@ -1,6 +1,17 @@
+## Big Data Fundamentos 2.0 <br />
+01 - Introdução <br />
+02 - O Que é Big Data? <br />
+03 - Introdução ao Hadoop <br />
+04 - Arquitetura Hadoop <br />
+05 - Ecossistema Hadoop <br />
+06 - Soluções Comerciais com Hadoop <br />
+07 - Introdução ao Apache Spark <br />
+08 - Bancos de Dados NoSQL <br />
+09 - Como Iniciar um Projeto de Big Data? <br />
+
 ## Inteligência Artificial Fundamentos <br />
 01 - Introdução <br />
-02 - O que é? <br />
+02 - O que é Inteligência Artificial? <br />
 03 - Solucionando Problemas <br />
 04 - Aplicação no Mundo Real <br />
 05 - Machine Learning <br />
